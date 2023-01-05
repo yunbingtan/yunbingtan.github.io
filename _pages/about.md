@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Tan
+I am Dr. Tan. DS Tufts.
