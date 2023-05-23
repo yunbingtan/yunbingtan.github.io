@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Yunbing Tan"
   avatar           : "profile.png"
-  bio              : "MS in Data Science from Tufts University"
-  bio              : "Ph.D. in Food Science from UMass Amherst"
+  bio              : "MS in Data Science from Tufts University <br /> Ph.D. in Food Science from UMass Amherst"
   location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
