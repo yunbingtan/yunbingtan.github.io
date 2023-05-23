@@ -14,5 +14,6 @@ My path in data science
 ======
 During my study in Data Science, I can flexibly apply lots of packages from Python, such as NumPy, pandas, sklearn, cv2, and perform many data modeling tasks or search tasks from script, such as implementation of decision tree, neural network, recursive Bayesian model. I am also familiar with many database languages, such as SQL and NoSQL. In addition, I also have experience in big data analysis using big query and dataproc from the google cloud platform. Relevant course projects include: topic modeling of large data using GCP, sentiment analysis and digit recongnition, establishment of deep neural network, full-stack visual analytics systems.
 
-** Food science **
+Food science
+------
 My Ph.D. study has taught me a lot of experimental and soft skills in order to be an excellent researcher in other disciplines. I have developed skills in experimental design and execution, teamwork, critical thinking, problem-solving and time management. I have worked on various projects and published tens of scientific papers. Besides, I have clear and concise communication skills, such as to deliver academic oral presentations.
