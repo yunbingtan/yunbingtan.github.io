@@ -61,6 +61,6 @@ Four oral presentations in the AOCS conferences and department competition (virt
 **Student Common Interest Group of the American Oil Chemists' Society, USA, 2019-2021** <br />
 _Vice President_
   * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings11111111111111111111111.
-###
-### Awards
+
+**Awards**
   * Received four academic or oral competition awards from AOCS, Phi Tau Sigma, and UMASS.
