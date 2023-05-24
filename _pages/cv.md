@@ -15,7 +15,7 @@ Education
 * Ph.D in Food Science, University of Massachusetts Amherst 2017-2021, Adivior: David Julian McClements
 * MS in Food Science, South China University of Technology, 2014-2017
 * BS in Food Science, South China University of Technology, 2014-2017
-
+<br>
 
 Skills
 ======
