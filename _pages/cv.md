@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ------
 * MS in Data Science, Tufts University 2022-2023(expected), Currrent GPA: 4.00/4.00
 * Ph.D in Food Science, University of Massachusetts Amherst 2017-2021, Adivior: David Julian McClements
 * MS in Food Science, South China University of Technology, 2014-2017
 * BS in Food Science, South China University of Technology, 2014-2017
 
-Skills
+## Skills
 ------
 * Programming: Python (sklearn, TensorFlow, PyTorch), R
 * Visualization: Tableau, JavaScript and D3.js
