@@ -30,16 +30,16 @@ Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep 
 
 ## Relevant course project
 ------
-* Topic modeling of large data 
+* _Topic modeling of large data_ 
   *	Applied Latent Dirichlet Allocation to a data collection of 1.09 GB using PySpark from GCP.
   *	Visualized data using TSNE for dimension reduction.
-* Sentiment analysis and digit recognition 
+* _Sentiment analysis and digit recognition_ 
   *	Conducted model comparison: logistic regression, neural network, and support vector machines.
   *	Used PCA to prune 25 critical components from 784 features, improved CV accuracy to 98%.
-* Object detection
+* _Object detection_
   *	Designed and implemented a region-proposal network in accordance with the Fast R-CNN scheme.
   *	Developed a CNN model through transfer learning, used the MobileNetV2 model from TensorFlow library.
-* Visual analytics systems
+* _Visual analytics system_
   *	Developed full-stack systems for analyzing the 2017 VAST challenge dataset using coordinated visualizations.
   *	Built responsive front-end components with d3.js and HTML, and developed the back-end using Python and SQL.
 
@@ -60,7 +60,7 @@ Four oral presentations in the AOCS conferences and department competition (virt
 ------
 **Student Common Interest Group of the American Oil Chemists' Society, USA, 2019-2021** <br />
 _Vice President_
-  * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings11111111111111111111111.
+  * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings.
 
 **Awards**
   * Received four academic or oral competition awards from AOCS, Phi Tau Sigma, and UMASS.
