@@ -45,7 +45,7 @@ Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep 
 
 ## Work experience
 ------
-**Food Biopolymers and Colloids Laboratory at University of Massachusetts Amherst, MA, 2017-2022**
+**Food Biopolymers and Colloids Laboratory at University of Massachusetts Amherst, MA, 2017-2022** <br />
 _Postdoctoral Researcher & Ph.D. Researcher_
   * Designed and performed experiments, acquired, and analyzed data: plant-based foods, and nutraceutical digestion.
   *	Performed data analysis using One-way ANOVA, factor analysis, cluster analysis, and discriminant analysis via Python and Excel.
@@ -58,8 +58,8 @@ Four oral presentations in the AOCS conferences and department competition (virt
 
 ## Leadership and activity
 ------
-**Student Common Interest Group of the American Oil Chemists' Society, USA, 2019-2021**
+**Student Common Interest Group of the American Oil Chemists' Society, USA, 2019-2021** <br />
 _Vice President_
-  * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings.
+  * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings11111111111111111111111.
 **Awards**
   * Received four academic or oral competition awards from AOCS, Phi Tau Sigma, and UMASS.
