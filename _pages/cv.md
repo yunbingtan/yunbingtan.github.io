@@ -24,12 +24,12 @@ Skills
 * Version Control: Git
 * Cloud Computing: Hadoop, Spark, AWS, GCP
 * Database: SQL (PostgreSQL, MySQL), NoSQL(MangoDB)
-
+<br/>
 
 Relevant courses (graduate level)
 ======
 Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Visual Analytics, Big Data, Data Based Systems, Numerical Analysis
-
+\
 
 Relevant course project
 ======
@@ -45,7 +45,7 @@ Relevant course project
 * Visual analytics systems
   *	Developed full-stack systems for analyzing the 2017 VAST challenge dataset using coordinated visualizations.
   *	Built responsive front-end components with d3.js and HTML, and developed the back-end using Python and SQL.
-
+##
 
 Work experience
 ======
