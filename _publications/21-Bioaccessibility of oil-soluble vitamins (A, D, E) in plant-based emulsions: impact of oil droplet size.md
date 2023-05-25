@@ -1,7 +1,7 @@
 ---
 title: "Bioaccessibility of oil-soluble vitamins (A, D, E) in plant-based emulsions: impact of oil droplet size"
 collection: publications
-permalink: /publication/2021-04-07-Bioaccessibility of oil-soluble vitamins (A, D, E) in plant-based emulsions: impact of oil droplet size
+permalink: /publication/2021-04-07-Bioaccessibility of oil-soluble vitamins (A, D, E) in plant-based emulsions impact of oil droplet size
 excerpt: 'Research article'
 date: 2021-04-07
 venue: 'Food and Function'
