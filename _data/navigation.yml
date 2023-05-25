@@ -4,13 +4,13 @@ main:
     url: /cv/
   
   - title: "Projects"
-    url: /projects/
+    url: /markdown/
  
   - title: "Publications"
     url: /publications/
 
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
 #   - title: "Talks"
 #     url: /talks/
 
