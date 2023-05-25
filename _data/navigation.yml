@@ -9,6 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Guide"
+    url: /markdown/
 #   - title: "Talks"
 #     url: /talks/
 
@@ -19,5 +21,4 @@ main:
 #     url: /year-archive/
     
     
-  - title: "Guide"
-    url: /markdown/
+
