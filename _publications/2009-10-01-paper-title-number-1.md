@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Investigation on the factors impacting the bioaccessibility of oil-soluble vitamins: food matrix effects "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Doctoral dissertation of Yunbing Tan'
+date: 2021-05
+venue: 'Doctoral dissertation'
+paperurl: 'https://doi.org/10.7275/22286623.0'
+citation: 'Tan, Yunbing, &quot;INVESTIGATION ON THE FACTORS IMPACTING THE BIOACCESSIBILITY OF OIL-SOLUBLE VITAMINS: FOOD MATRIX EFFECTS&quot; (2021). <i>Doctoral Dissertations</i>. 2226.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Doctoral disseration of Yunbing Tan
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](Ph.D. disseration of Yunbing Tan)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tan, Yunbing, "INVESTIGATION ON THE FACTORS IMPACTING THE BIOACCESSIBILITY OF OIL-SOLUBLE VITAMINS: FOOD MATRIX EFFECTS" (2021). <i>Doctoral Dissertations</i>. 2226.
