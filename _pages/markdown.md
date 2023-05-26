@@ -3,8 +3,8 @@ permalink: /markdown/
 title: "Projects"
 author_profile: true
 redirect_from: 
-  - /projects/
-  - /projects.html
+  - /md/
+  - /markdown.html
 ---
 
 ## Topic Modeling with Different Corpora: Latent Dirichlet Allocation
