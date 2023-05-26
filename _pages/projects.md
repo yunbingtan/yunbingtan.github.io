@@ -4,8 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 redirect_from: 
-  - /projects/
-  - /projects.html
+  - /projects
 ---
 
 {% include base_path %}
