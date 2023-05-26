@@ -7,4 +7,6 @@ redirect_from:
   - /projects
 ---
 
-123
+{% include base_path %}
+
+12345
