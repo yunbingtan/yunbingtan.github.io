@@ -16,3 +16,5 @@ redirect_from:
   * Data preprocessing: such as text tokenization, stop word removal; 
   * Different inference methods: online variational Bayes vs expectation maximization; 
   * Data visualization using T-SNE
+<br />
+<img src="/images/project_1_1.png" alt="project1">
