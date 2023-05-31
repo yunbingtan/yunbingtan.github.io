@@ -25,10 +25,10 @@ Fig 1. Diagram of Spark components that are used in this project.
 * Developed full-stack systems using to present findings and suppourt our hypotheses.
 * Built coordinated visualizations with responsive front-end components by d3.js and HTML, and back-end by Python and SQL.
 <br />
-<img src="/images/project_2_1.png" alt="project2"><br />
-Fig 1. Architecture of visual analytic systems.
+<img src="/images/project_2_1.png" alt="project2" width="500"><br />
+Fig 2. Architecture of visual analytic systems.
 
 ## Sentiment analysis and digit recognition
 * feature engineering using variance threshold, recursive feature elimination, principle component analysis.
 *	Hyperparameter training: activation function (kernal function), hidden_layer, regularization etc.
-*	Conducted model comparison: logistic regression, neural network, and support vector machines.
+*	Model comparison: logistic regression, neural network, and support vector machines.
