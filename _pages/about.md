@@ -17,5 +17,6 @@ During my study in Data Science, I have acquired good understanding of algorithm
 Food science
 ------
 I also got a Ph.D degree in food science from University of Massachusetts Amherst. I have done research in several distinctive areas and have had a broad span of knowledge and research experience, including plant-based foods, protein-stabilized emulsions, protein hydrolysis, release and absorption of nuetraceuticals, preparation and application of novel electrode component. Till now, I have published over 14 peer-reviewed papers as first author (three review paper, highest impact factor of 14.71) and 25 papers as coauthor. I have 955 citations and 19 h-index (google scholar). 
+
 <br />
 My Ph.D. study has taught me a lot of experimental and soft skills in order to be an excellent researcher in other disciplines. I have developed skills in experimental design and execution, teamwork, critical thinking, problem-solving and time management. I have worked on various projects and published tens of scientific papers. Besides, I have clear and concise communication skills, such as to deliver academic oral presentations.
