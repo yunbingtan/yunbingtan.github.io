@@ -20,15 +20,15 @@ redirect_from:
 <img src="/images/project_1_1.png" alt="project1"><br />
 Fig 1. Diagram of Spark components that are used in this project.
 
-## Visual analytics systems to explore traffic pattern (VAST Challenge 2017 MC1)
+## Visual analytics systems to explore traffic pattern (VAST challenge 2017 MC1)
 * Analyzed the dataset using python and tableau.
 * Developed full-stack systems using to present findings and suppourt our hypotheses.
-* Built coordinated visualizations with responsive front-end components by d3.js and HTML, and back-end by Python and SQL.
+* Built coordinated visualizations with responsive front-end components by d3.js and HTML, and back-end components by Python and SQL.
 <br />
 <img src="/images/project_2_1.png" alt="project2" width="600"><br />
 Fig 2. Architecture of visual analytic systems.
 
 ## Sentiment analysis and digit recognition
-* feature engineering using variance threshold, recursive feature elimination, principle component analysis.
+* Feature engineering using variance threshold, recursive feature elimination, principle component analysis.
 *	Hyperparameter training: activation function (kernal function), hidden_layer, regularization etc.
 *	Model comparison: logistic regression, neural network, and support vector machines, AdaBoost.
