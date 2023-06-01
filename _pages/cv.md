@@ -19,7 +19,7 @@ redirect_from:
 ## Skills
 ------
 * Programming: Python (sklearn, TensorFlow, PyTorch), R
-* Visualization: Tableau, JavaScript and D3.js
+* Visualization: Tableau, JavaScript and D3.js, HTML/CSS
 * Version Control: Git
 * Cloud Computing: Hadoop, Spark, AWS, GCP
 * Database: SQL (PostgreSQL, MySQL), NoSQL(MangoDB)
