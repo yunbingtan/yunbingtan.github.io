@@ -28,7 +28,7 @@ redirect_from:
 ------
 Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Visual Analytics, Big Data, Data Based Systems, Numerical Analysis
 
-## Relevant course project
+## <a href = "https://yunbingtan.github.io/projects/">Relevant course project</a>
 ------
 * _Topic modeling of large data_ 
   *	Applied Latent Dirichlet Allocation to a data collection of 1.09 GB using PySpark from GCP.
