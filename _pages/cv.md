@@ -24,6 +24,11 @@ redirect_from:
 * Cloud Computing: Hadoop, Spark, AWS, GCP
 * Database: SQL (PostgreSQL, MySQL), NoSQL(MangoDB)
 
+## Certifications
+------
+* Data analytics and visualization virtual experience (Accenture)
+* Machine learning with python-from linear models to deep learning (edX)
+
 ## Relevant courses (graduate level)
 ------
 Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Visual Analytics, Big Data, Data Based Systems, Numerical Analysis
