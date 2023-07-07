@@ -28,6 +28,7 @@ redirect_from:
 ------
 * Data analytics and visualization virtual experience (Accenture)
 * Machine learning with python-from linear models to deep learning (edX)
+* R Programming A-Z™: R For Data Science With Real Exercises!
 
 ## Relevant courses (graduate level)
 ------
@@ -50,6 +51,12 @@ Mathematical Statistics I and II, Statistical Computing, Machine Learning, Deep 
 
 ## Work experience
 ------
+**Mission: Cure, MA, Jun-Jul 2023** <br />
+_Scientific research Intern_
+  * Analyzed data from internal studies or public databases such as the federal All of Us study to learn about pancreatitis patients’ health and co-occurring conditions.
+  * Supported various translational and patient-related research projects, and reviewed research literature to assess potential therapeutic approaches.
+  * Prepared for meetings with leading researchers about potential therapies and relevant scientific developments.
+
 **Food Biopolymers and Colloids Laboratory at University of Massachusetts Amherst, MA, 2017-2022** <br />
 _Postdoctoral Researcher & Ph.D. Researcher_
   * Designed and performed experiments, acquired, and analyzed data: plant-based foods, and nutraceutical digestion.
@@ -66,6 +73,11 @@ Four oral presentations in the AOCS conferences and department competition (virt
 **Student Common Interest Group of the American Oil Chemists' Society, USA, 2019-2021** <br />
 _Vice President_
   * Organized student events (a webinar and a seminar) and newsletters before and during the AOCS annual meetings.
+
+**Phi Tau Sigma Honorary Society UMass Chapter, MA, 2018-2022** <br />
+_Vice President_
+  * Co-hosted four experience-sharing seminars with ACS/AGFD UMass chapter
+  * Managed annual report, membership information, and scholarship submission (awarded as chapter of merit)
 
 **Awards**
   * Received four academic or oral competition awards from AOCS, Phi Tau Sigma, and UMASS.
