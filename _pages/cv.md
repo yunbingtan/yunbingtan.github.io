@@ -28,7 +28,7 @@ redirect_from:
 ------
 * Data analytics and visualization virtual experience (Accenture)
 * Machine learning with python-from linear models to deep learning (edX)
-* R Programming A-Z™: R For Data Science With Real Exercises!
+* R Programming A-Z™: R For Data Science With Real Exercises! (Udemy)
 
 ## Relevant courses (graduate level)
 ------
