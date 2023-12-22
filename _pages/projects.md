@@ -13,7 +13,7 @@ redirect_from:
 ------
 
 * The model was set up in Dataproc from Google Cloud Platform (GCP).
-* Established in PySpark, the <a href='https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.clustering.LDA.html'>LDA</a> library was used directly for data analysis.
+* The <a href='https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.clustering.LDA.html'>LDA</a> library from PySpark was used for data analysis.
 * An open-source data (<a href='https://www.gutenberg.org/'>Project Gutenberg</a>) was used. The size of the data is ~1 GB for this demo test. 
   * Data files uploaded to GCP.
   * Data preprocessing: such as text tokenization, stop word removal.
