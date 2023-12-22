@@ -27,7 +27,8 @@ Fig 1. Diagram of Spark components that are used in this project.
 
 
 ### Overview 
-A screenshot of the visual analytic system is shown here.
+<br />
+<img src="/images/vas.png" alt="project2" width="600"><br />
 
 ### Architecture
 - A compact database system that allows data retrieval using SQL syntax.
@@ -48,8 +49,17 @@ A screenshot of the visual analytic system is shown here.
 The Convey's Game of Life was developed as an iOS app using Swift, which can be operated under iPhone 15 and iPad Pro.
 
 ### Overview 
+<p float="left">
+  <img src="/images/Simulation.png" alt="project2" width="100">
+  <img src="/images/Configuration.png" alt="project2" width="100">
+  <img src="/images/Statistics.png" alt="project2" width="100">
+</p>
 
 ### Animation
+
+<video width="320" height="240" controls>
+  <source src="/images/Animation.mov" type="video/mp4">
+</video>
 
 ## Sentiment analysis and digit recognition
 * Feature engineering using variance threshold, recursive feature elimination, and principle component analysis.
