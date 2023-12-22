@@ -26,27 +26,27 @@ redirect_from:
 
 ## Work experience
 ------
-**Commonwealth Corporation, Ma, Sep-Dec 2023** <br />
+**Commonwealth Corporation, MA, Sep-Dec 2023** <br />
 _Data analytics Intern_
-  * Participated in the migration of databases and data governance essential programs.
-  * Conducted in-depth analysis of the labor market and workforce development data of Massachusetts, authored official reports for publication, and presented findings to affinity groups.
-  * Performed data analysis (linear regression) and created graphical visualization (heat map) by R, Python, and Tableau.
+* Participated in the migration of databases and data governance essential programs.
+* Conducted in-depth analysis of the labor market and workforce development data of Massachusetts, authored official reports for publication, and presented findings to affinity groups.
+* Performed data analysis (linear regression) and created graphical visualization (heat map) by R, Python, and Tableau.
 
 **Tufts University, MA, Sep-Dec 2023** <br />
 _Course Assistant_
 
 **Mission: Cure, Remote, Jun-Jul 2023** <br />
 _Scientific research Intern_
-  * Analyzed data from internal studies or public cloud databases from All of Us to learn about pancreatitis patients’ health and co-occurring conditions.
-  * Supported various translational and patient-related research projects (parallel coordinate plot), and reviewed research literature to assess potential therapeutic approaches.
-  * Prepared for meetings with leading researchers about potential therapies and relevant scientific developments.
+* Analyzed data from internal studies or public cloud databases from All of Us to learn about pancreatitis patients’ health and co-occurring conditions.
+* Supported various translational and patient-related research projects (parallel coordinate plot), and reviewed research literature to assess potential therapeutic approaches.
+* Prepared for meetings with leading researchers about potential therapies and relevant scientific developments.
 
 **Food Biopolymers and Colloids Laboratory at University of Massachusetts Amherst, MA, 2017-2022** <br />
 _Postdoctoral Researcher & Ph.D. Researcher_
-  * Designed and performed experiments, acquired, and analyzed data for various projects: plant-based foods and nutraceutical digestion.
-  *	Performed data analysis using One-way ANOVA, factor analysis, cluster analysis, linear classification, and discriminant analysis via Python and Excel.
-  *	Worked with cross-functional teams to conduct research.
-  *	Published 14 peer-reviewed papers as first author (three review papers, highest impact factor 14.71), 25 papers as coauthor (total citation 1092, h-index 18).
+* Designed and performed experiments, acquired, and analyzed data for various projects: plant-based foods and nutraceutical digestion.
+*	Performed data analysis using One-way ANOVA, factor analysis, cluster analysis, linear classification, and discriminant analysis via Python and Excel.
+*	Worked with cross-functional teams to conduct research.
+*	Published 14 peer-reviewed papers as first author (three review papers, highest impact factor 14.71), 25 papers as coauthor (total citation 1092, h-index 18).
 
 ## <a href = "https://yunbingtan.github.io/projects/">Relevant course projects</a>
 ------
