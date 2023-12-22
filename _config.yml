@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yunbing Tan"
   avatar           : "IMG_0493 copy.jpg"
-  bio              : "MS in Data Science from Tufts University <br /> Ph.D. in Food Science from UMass Amherst"
+  bio              : "MS in Computer Science from Tufts University <br /> Ph.D. in Food Science from UMass Amherst"
   location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=-V9akEAAAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : "yunbing.tan@tufts.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
