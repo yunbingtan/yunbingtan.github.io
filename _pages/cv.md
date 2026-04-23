@@ -11,29 +11,36 @@ redirect_from:
 
 ## Education
 ------
-* MS in Computer Science, Tufts University 2022-2024(expected), Currrent GPA: 4.00/4.00
+* MS in Computer Science, Tufts University 2022-2024, GPA: 3.96/4.00
 * Ph.D. in Food Science, University of Massachusetts Amherst 2017-2021, Adivior: David Julian McClements
 * MS in Food Science, South China University of Technology, 2014-2017
 * BS in Food Science, South China University of Technology, 2010-2014
 
 ## Skills
 ------
-* Programming: Python (sklearn, TensorFlow, PyTorch), R, Swift 
-* Visualization: Tableau, JavaScript and D3.js, HTML/CSS
-* Version Control: Git
-* Cloud Computing: Hadoop, Spark, AWS, GCP
-* Database: SQL (PostgreSQL, MySQL), NoSQL(MangoDB)
+* Programming: Python (sklearn, TensorFlow, PyTorch), R, JavaScript, Java, Swift
+* Visualization: Tableau, D3.js, HTML/CSS, Streamlit
+* DevOps: Git, CI/CD, Docker
+* Cloud Computing: Hadoop, Spark, Snowflake, AWS, GCP
+* Database: SQL (PostgreSQL, MySQL), NoSQL(MangoDB), dbt, Airflow
 
 ## Work experience
 ------
+**Labviva, MA, Feb 2024-Jan 2026** <br />
+_Data Scientist (Promoted from Intern)_
+* Developed and deployed production-grade NLP model on entity resolution / record linkage using LLM and semantic search, improving match performance by 100%.
+* Initiated and developed an automated savings analysis application with CI/CD integration and interactive dashboards visualization, processing millions of records and reducing turnaround time by 85%.
+* Managed the end-to-end life cycle of ~100 high-priority business reporting tickets for global stakeholders, collaborating cross-functionally to achieve a 2-3 day turnaround time.
+* Architected and deployed fast and reliable data pipelines with anomaly detection using dbt framework, and leveraged Python, SQL, R for data ELT across diverse data tools including AWS, Snowflake and PostgreSQL.
+
+**Tufts University, MA, Sep 2023-May 2024** <br />
+_Teaching Assistant_
+
 **Commonwealth Corporation, MA, Sep-Dec 2023** <br />
 _Data analytics Intern_
 * Participated in the migration of databases and data governance essential programs.
 * Conducted in-depth analysis of the labor market and workforce development data of Massachusetts, authored official reports for publication, and presented findings to affinity groups.
 * Performed data analysis (linear regression) and created graphical visualization (heat map) by R, Python, and Tableau.
-
-**Tufts University, MA, Sep-Dec 2023** <br />
-_Course Assistant_
 
 **Mission: Cure, Remote, Jun-Jul 2023** <br />
 _Scientific research Intern_
