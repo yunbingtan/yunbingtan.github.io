@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Local data analysis pipeline with Docker Compose
+------
+<a href='https://github.com/yunbingtan/Data_analysis_pipeline/tree/main'>This repository</a> sets up a local data analysis pipeline with Docker Compose. It combines Apache Airflow for orchestration, dbt for transformations, and PostgreSQL for storage, with each service running in containers.
+* Airflow DAGs for ETL and dbt execution
+* A dbt sample project in `dbt/jaffle-shop`
+* A separate PostgreSQL instance for dbt development
+* Adminer for inspecting databases in the browser
+* A lightweight Python analysis container for notebooks and ad hoc scripts
 
 ## Topic modeling with different corpora: Latent Dirichlet Allocation
 ------
